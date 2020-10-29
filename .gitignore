@@ -130,3 +130,7 @@ dmypy.json
 
 # Uncompressed dataset
 *.jsonl
+
+# Models
+*.pkl
+models/*
