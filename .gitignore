@@ -134,3 +134,6 @@ dmypy.json
 # Models
 *.pkl
 models/*
+
+# Compressed files or set of those
+*.zip
